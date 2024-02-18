@@ -11,7 +11,7 @@ export default function Home() {
         <p className="text-center">Run your agency, in one place</p>
         <div className="relative bg-gradient-to-r from-dark-tremor-brand to-secondary-foreground bg-clip-text text-transparent">
           <h1 className="text-center text-9xl font-bold md:text-[300px]">
-            Plura
+            Buildr
           </h1>
         </div>
         <div className="relative flex items-center justify-center md:mt-[-70px]">
